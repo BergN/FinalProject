@@ -36,7 +36,7 @@ This is the code that moves down the tree as decisions are made. It gets each va
 
 ## Authors
 
-* Noah Berg 
+* **Noah Berg** 
 
 ## Acknowledgments
 
